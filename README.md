@@ -40,3 +40,9 @@ the link above is a full explaining of what is markdown and how to use it.
     1. git commit -m"here we write what we have done"
 
     3. git push origin main
+
+and ther are other command we can use in this website:
+
+ [Git Command Cheatsheet](https://www.plesk.com/blog/various/git-commands-cheat-sheet/)
+
+ [Terminal Command Cheat sheet: (Navigation and files)](https://www.codecademy.com/learn/learn-the-command-line/modules/learn-the-command-line-navigation/cheatsheet)
